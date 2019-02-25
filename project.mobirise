@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CFG Career Resources",
-    "currentPage": "index.html",
+    "currentPage": "resume.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -24,7 +24,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -150,9 +150,9 @@
         }
       ]
     },
-    "page1.html": {
+    "resume.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "",
         "title": "Resume",
         "order": 1
       },
